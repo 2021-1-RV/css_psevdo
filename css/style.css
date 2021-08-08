@@ -1,0 +1,24 @@
+/**{
+    color: khaki;
+}
+
+li{
+    margin: 20px;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+.linkClass{
+    color: green;
+}
+
+#linkId{
+    color:indigo;
+}
+#linkId2{
+    color:lightcoral;
+}
+*/
